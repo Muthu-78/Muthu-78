@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Muthu
+- 
 - 👀 I’m interested in ... Data analytics
--  I’m currently learning ...Python with data analytics
+- 
+-  I’m currently learning ... Data analytics with python
+-  
 -  I’m looking to collaborate on ...
+-  
 - 📫 How to reach me ...muthukumarcj7@gmail.com
 
 
